@@ -260,7 +260,13 @@ With Anaconda installed, you can now use Jupyter Notebooks directly within Visua
 
 4. **Select Your Python Environment:**
 
-   - Ensure that your Python environment is selected. If you’ve created the `ga-env` environment, select it by clicking on the Python version displayed in the bottom left corner of VS Code and choosing `ga-env` from the list.
+   - If you’ve created the `ga-env` environment, you need to make sure it's selected as the active Python environment in VS Code.
+   - Press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> to open the Command Palette.
+   - In the Command Palette, start typing `Python: Select Interpreter` and select this option when it appears.
+   - A list of available Python environments will show up. Look for `ga-env` in the list (it might include the full path to the environment and mention `conda` or `miniconda`).
+   - Click on `ga-env` to select it as the active Python environment.
+
+   If you don't see `ga-env` in the list, make sure the environment is activated in your terminal and VS Code is restarted.
 
 ### Running Jupyter Notebooks in VS Code
 
@@ -269,12 +275,6 @@ Once you've installed the Jupyter extension and opened or created a notebook, yo
 - **Running Code Cells:**
 
   - You can run a code cell by clicking the "Run" button next to the cell or by pressing <kbd>Shift</kbd> + <kbd>Enter</kbd> while the cell is selected.
-
-- **Saving Your Work:**
-
-  - Don’t forget to save your work frequently. You can do this by pressing <kbd>Ctrl</kbd> + <kbd>S</kbd>.
-
-This setup allows you to leverage the full power of VS Code while working with Jupyter Notebooks, offering a seamless and integrated development experience.
 
 ## You did it!
 
