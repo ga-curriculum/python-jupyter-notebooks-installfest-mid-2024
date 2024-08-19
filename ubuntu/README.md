@@ -30,15 +30,15 @@ Finally, you'll [set up the directory structure used in the course](#set-up-the-
 
 ### Note for Experienced Developers
 
-If you already have the following programs installed and set up on your computer:
+If you already have the following programs installed and configured on your computer:
 
 - A bash-based terminal environment
 - Git
 - GitHub CLI
 
-in a way that differs from the instructions provided here **but works well for you and you’re familiar with it**, feel free to skip those sections of the Installfest.
+and they are set up differently from the instructions provided here **but are working well for you**, feel free to skip those sections of the Installfest.
 
-If you are in doubt, we recommend following the guide provided to ensure consistency across the course. This will help avoid any unexpected issues later on.
+However, if you’re unsure whether your setup is compatible, we recommend following the guide provided to ensure consistency across the course. This will help prevent any unexpected issues later on.
 
 ## Troubleshooting
 
