@@ -9,11 +9,17 @@ Welcome to the Installfest, where we'll set up the development environment you'l
 
 ## Content
 
-| Lesson                          | Skills                                                              |
+| Guide                           | Topics Covered                                                      |
 | ------------------------------- | ------------------------------------------------------------------- |
 | [macOS](../mac-os/README.md)    | Configuring a development environment in macOS.                     |
 | [Windows](../windows/README.md) | Configuring a development environment in Windows 10 and Windows 11. |
 | [Ubuntu](../ubuntu/README.md)   | Configuring a development environment in Ubuntu 22.04 LTS.          |
+
+## Cloning Repositories and Activating Your Virtual Environment
+
+| Guide                                                          | Topics Covered                                                               |
+| -------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| [Setting up your Classwork Environment](../running-the-env.md) | Configuring a development environment for starter code or notebook exercises |
 
 ## References
 
